@@ -2,6 +2,11 @@
 
 ## this will start the project
 
+### When you start the project you will have by default this librarys installed:
+  * styled-components
+  * react-router-dom
+  * easy-peasy
+
 In the project directory, you can run:
 
 ### `npm install`
